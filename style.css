@@ -1,0 +1,622 @@
+		html {
+			margin: 0;
+			padding: 0;
+		}
+		body {
+
+		}
+		.container {
+			margin: 0;
+			padding: 0;
+			position: relative;
+			background-image: url("https://live.staticflickr.com/65535/52646858331_e76ffe0b85_h.jpg");
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-attachment: fixed;
+			filter: saturate(100%);
+			width: 1024px;
+			height: auto;
+			border: 0px solid red;
+			
+		}
+		.container .cover-1 img {
+			width: 1024px;
+			height: 683px;
+			position: absolute;
+			filter: saturate(100%);
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			
+		}
+		.name {
+			border: 1px solid red;
+		}
+		.welcome {
+			position: relative;
+			text-align: center;
+			font-family: "cursive"; 
+			font-size: 30px; 
+			font-style: italic; 
+			font-variant: normal; 
+			font-weight: 700; 
+			color: #6699CC;
+			line-height: 15.4px; 
+		}
+		.date {
+			position: relative;
+			text-align: center;
+			font-family: "cursive;";
+			font-size: 25px;
+			font-style: italic;
+			font-variant: normal;
+			font-weight: 750;
+			font-color: #6699CC;
+			float: none;
+			margin-top: 605px;
+			text-shadow: 1px 1px black;
+			margin-bottom: -10px;
+
+		}
+		.container .cover-2 img {
+			width: 1024px;
+			height: 683px;
+			position: absolute;
+			filter: saturate(100%);
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			margin-top: 10px;
+			
+		}
+		.layout {
+			width: 1024px;
+			height: 546.7px;
+			position: relative;
+			margin-top: 750px;
+			background-image: url("https://live.staticflickr.com/65535/52646858331_e76ffe0b85_h.jpg");
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-attachment: fixed;
+			
+		}
+		.text {
+			position: absolute;
+			margin-top: 50px;
+			margin-left: 10px;
+			font-family: "Brush Script MT";
+			font-size: 70px;
+			font-style: italic;
+			font-variant: normal;
+			font-weight: 600;
+			text-align: center;
+			color: #FF6600;
+			float: none;
+			border: 0px solid red;
+			inline-size: 2px;
+			text-shadow: 3px 3px black;
+		}
+		.img {
+			width: 819.2px;
+			height: 546.7px;
+			position: absolute;
+			display: block;
+			margin-left: 204.8px;
+			border: 1px solid white;
+			border-radius: 10px;
+		}
+		.layout-1 {
+			width: 1024px;
+			height: 957px;
+			position: relative;
+			margin-top: 50px;
+			background-image: url("https://live.staticflickr.com/65535/52646858331_e76ffe0b85_h.jpg");
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-attachment: fixed;
+			
+		}
+		.layout-1 .img-1 {
+			width: 310.3px; 
+			height: 465.8px;
+			position: absolute;
+			display: block;
+			border: 1px solid white;
+			border-radius: 20px;
+			margin-left: 10px;
+		}
+		.layout-1 .img-2 {
+			width: 310.3px; 
+			height: 465.8px;
+			position: absolute;
+			display: block;
+			margin-top: 216.45px;
+			margin-left: 345px;
+			border: 1px solid white;
+			border-radius: 20px;
+		}
+		.layout-1 .img-3 {
+			width: 310.3px; 
+			height: 465.8px;
+			position: absolute;
+			display: block;
+			margin-top: 432.9px;
+			margin-left: 685px;
+			border: 1px solid white;
+			border-radius: 20px;
+		}
+		.layout-1 .img-4 {
+			width: 310.3px; 
+			height: 207.1px;
+			position: absolute;
+			display: block;
+			float: left;
+			margin-left: 10px;
+			margin-top: 488.7px;
+			border: 1px solid white;
+			border-radius: 20px;
+		}
+		.layout-1 .img-5 {
+			width: 310.3px; 
+			height: 207.1px;
+			position: absolute;
+			display: block;
+			margin-left: 685px;
+			margin-top: 200px;
+			border: 1px solid white;
+			border-radius: 20px;
+		}
+		.layout-1 .text-1 {
+			width: 660.6px;
+			height: 230px;
+			position: absolute;
+			display: block;
+			margin-left: 355px;
+			margin-top: 0px;
+			text-align: center;
+			font-family: "Brush Script MT"; 
+			font-size: 80px; 
+			font-style: normal; 
+			font-variant: normal; 
+			font-weight: 550; 
+			line-height: 60px;
+			font-color: #111;
+			float: none;
+			color: #0066FF;
+			text-shadow: 3px 2px black;
+		}
+		.layout-1 .text-2 {
+			width: 660.6px;
+			height: 230px;
+			position: absolute;
+			display: block;
+			margin-left: 0px;
+			margin-top: 755.8px;
+			text-align: center;
+			font-family: "Brush Script MT"; 
+			font-size: 80px; 
+			font-style: normal; 
+			font-variant: normal; 
+			font-weight: 550; 
+			line-height: 60px; 
+			font-color: #111;
+			float: none;
+			color: #0066FF;
+			text-shadow: 3px 2px black;
+		}
+		.layout-2 {
+			width: 1024px;
+			height: 700px;
+			position: relative;
+			margin-top: 20px;
+			background-image: url("https://live.staticflickr.com/65535/52646858331_e76ffe0b85_h.jpg");
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-attachment: fixed;
+			
+		}
+		.layout-2 .img-8 {
+			width: 310.3px; 
+			height: 465.8px;
+			position: relative;
+			display: block;
+			margin-top: -180px;
+			margin-left: 350px;	
+			border: 3px solid white;
+			border-radius: 10px;
+		}
+		.layout-2 .img-6 {
+			width: 457.7px; 
+			height: 300px;
+			position: relative;
+			display: block;
+			margin-top: 20px;
+			margin-left: 20px;
+			border: 3px solid white;
+			border-radius: 10px;
+		}
+		.layout-2 .img-9 {
+			width: 457.7px; 
+			height: 300px;
+			position: relative;
+			display: block;
+			margin-top: -300px;
+			margin-left: 545px;
+			border: 3px solid white;
+			border-radius: 10px;
+		}
+		.layout-2 .img-7 {
+			width: 457.7px; 
+			height: 300px;
+			position: absolute;
+			display: block;
+			margin-top: 30px;
+			margin-left: 20px;
+			border: 3px solid white;
+			border-radius: 10px;
+		}
+		.layout-2 .img-10 {
+			width: 457.7px; 
+			height: 300px;
+			position: absolute;
+			display: block;
+			margin-top: 30px;
+			margin-left: 545px;
+			border: 3px solid white;
+			border-radius: 10px;
+
+		}
+		.layout-3 {
+			width: 1024px;
+			height: 500px;
+			position: relative;
+			margin-top: 0px;
+			background-image: url("https://live.staticflickr.com/65535/52646858331_e76ffe0b85_h.jpg");
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-attachment: fixed;
+			border: 0px solid red;
+		}
+		.layout-3 .img-11 {
+			width: 330px;
+			height: 497.5px;
+			position: absolute;
+			display: block;
+			margin-top: 10px;
+			margin-left: 5px;
+			border: 1px solid white;
+			border-radius: 10px;
+		}
+		.layout-3 .img-12 {
+			width: 330px;
+			height: 497.5px;
+			position: absolute;
+			display: block;
+			margin-top: 10px;
+			margin-left: 345px;
+			border: 1px solid white;
+			border-radius: 10px;
+		}
+		.layout-3 .img-13 {
+			width: 330px;
+			height: 497.5px;
+			position: absolute;
+			display: block;
+			margin-top: 10px;
+			margin-left: 685px;
+			border: 1px solid white;
+			border-radius: 10px;
+		}
+		.see-all {
+			width: 1024px;
+			height: 150px;
+			position: relative;
+			margin-top: 450px;
+			background: none;
+			/*
+			background-color: ;
+			background-image: url("https://live.staticflickr.com/65535/52646858331_e76ffe0b85_h.jpg");
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-attachment: fixed;
+			border: 0px solid red;
+			*/
+			opacity: 90%;
+			border-radius: 500px;
+			resize: cover;
+			overflow: auto;
+			object-fit: cover;
+		}
+		.slider-img {
+			width: 1024px;
+			height: 550px;
+			position: relative;
+			border: 0px solid red;
+			margin-top: 10px;
+			overflow: visible;
+			resize: cover;
+		} 
+		.flip {
+			width: 100%;
+			height: auto;
+			margin: 0px;
+			padding: 0px;
+			background-color: #000;
+			display: block;
+		}
+		.slider {
+			width: 100%;
+			height: 1000px;
+			background: #000;
+			overflow: hidden;
+			margin-top: 5%;
+		}
+		.slider .carousel {
+			width: 100%;
+			margin: 100px auto 0;
+			overflow: visible;
+		}
+		.carousel img{
+			-webkit-box-reflect: below 20px linear-gradient(rgba(255,255,255,0.1),rgba(255,255,255,0.3));
+		}
+		.see-all-album {
+	margin-top: 75px;
+	margin-left: 500px;
+	background: #1769ff;
+	font-family: sans-serif;
+	border: 0px solid red;
+	position: absolute;
+	opacity: 100%;
+	}
+	/*
+	.see-all-album-1 {
+	margin-top: 0px;
+	margin-left: 100px;
+	background: #FF6600;
+	font-family: sans-serif;
+	}
+	*/
+.btn {
+	left: 33%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	color: #FF0000;
+	padding: 20px 30px 20px 30px;
+	font-size: 22px;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+	overflow: hidden;
+	background-color: #1769ff;
+	font-weight: 700;
+	height: 25px;
+    width: 200px;
+
+}
+/*
+.btn-1 {
+	left: 70%;
+	top: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	color: #FF6600;
+	padding: 15px 20px 15px 30px;
+	font-size: 30px;
+	letter-spacing: 2px;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+	overflow: hidden;
+	background-color: #3b84c8;
+	font-weight: 600;
+
+}
+*/
+a:before {
+	content: '';
+	position: absolute;
+	top: 2px;
+	left: 2px;
+	bottom: 2px;
+	width: 50%;
+	background: rgba(255, 255, 255, 0.05);
+}
+a span:nth-child(1)
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 2px;
+	background: linear-gradient(to right, #0c002b, #1779ff);
+	animation: animate1 2s linear infinite;
+}
+@keyframes animate1
+{
+	0%
+	{
+		transform: translateX(-100%);
+	}
+	100%
+	{
+		transform: translateX(100%);
+	}
+}
+a span:nth-child(2)
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 2px;
+	height: 100%;
+	background: linear-gradient(to bottom, #0c002b, #1779ff);
+	animation: animate2 2s linear infinite;
+	animation-delay: 1s;
+}
+@keyframes animate2
+{
+	0%
+	{
+		transform: translateY(-100%);
+	}
+	100%
+	{
+		transform: translateY(100%);
+	}
+}
+a span:nth-child(3)
+{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 2px;
+	background: linear-gradient(to left, #0c002b, #1779ff);
+	animation: animate3 2s linear infinite;
+}
+@keyframes animate3
+{
+	0%
+	{
+		transform: translateX(100%);
+	}
+	100%
+	{
+		transform: translateX(-100%);
+	}
+}
+a span:nth-child(4)
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 2px;
+	height: 100%;
+	background: linear-gradient(to top, #0c002b, #1779ff);
+	animation: animate4 2s linear infinite;
+	animation-delay: 1s;
+}
+@keyframes animate4
+{
+	0%
+	{
+		transform: translateY(100%);
+	}
+	100%
+	{
+		transform: translateY(-100%);
+	}
+}
+.the-end {
+	width: 1024px;
+	height: 200px;
+	position: relative;
+	display: block;
+	margin-top: 0px;
+	text-align: center;
+	font-family: "Jazz LET";
+	font-size: 30px;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 750;
+	font-color: #111;
+	float: none;
+	color: #111;
+	text-shadow: 1px 1px black;
+
+}
+		/* font sử dụng trong này
+		h1 { font-family: "Homemade Apple"; 
+			font-size: 24px; 
+			font-style: normal; 
+			font-variant: normal; 
+			font-weight: 700; 
+			line-height: 26.4px; } 
+			h3 { font-family: "Homemade Apple"; 
+				font-size: 14px; 
+				font-style: normal; 
+				font-variant: normal; 
+				font-weight: 700; 
+				line-height: 15.4px; } 
+				p { font-family: "Homemade Apple"; 
+					font-size: 14px; 
+					font-style: normal; 
+					font-variant: normal; 
+					font-weight: 400; 
+					line-height: 20px; } 
+					blockquote { font-family: "Homemade Apple"; 
+						font-size: 21px; 
+						font-style: normal; 
+						font-variant: normal; 
+						font-weight: 400; 
+						line-height: 30px; } 
+						pre { font-family: "Homemade Apple"; 
+							font-size: 13px; 
+							font-style: normal; 
+							font-variant: normal; 
+							font-weight: 400; 
+							line-height: 18.5714px; }
+							h1 { font-family: "Herr Von Muellerhoff"; 
+								font-size: 24px; 
+								font-style: normal; 
+								font-variant: normal; 
+								font-weight: 700; 
+								line-height: 26.4px; } 
+								h3 { font-family: "Herr Von Muellerhoff"; 
+									font-size: 14px; 
+									font-style: normal; 
+									font-variant: normal; 
+									font-weight: 700; 
+									line-height: 15.4px; } 
+									p { font-family: "Herr Von Muellerhoff"; 
+										font-size: 14px; 
+										font-style: normal; 
+										font-variant: normal; 
+										font-weight: 400; 
+										line-height: 20px; } 
+										blockquote { font-family: "Herr Von Muellerhoff"; 
+											font-size: 21px; 
+											font-style: normal; 
+											font-variant: normal; 
+											font-weight: 400; 
+											line-height: 30px; } 
+											pre { font-family: "Herr Von Muellerhoff"; 
+												font-size: 13px; 
+												font-style: normal; 
+												font-variant: normal; 
+												font-weight: 400; 
+								line-height: 18.5714px; }
+								h1 { font-family: "Nothing You Could Do"; 
+								font-size: 24px; 
+								font-style: normal; 
+								font-variant: normal; 
+								font-weight: 700; 
+								line-height: 26.4px; } 
+								h3 { font-family: "Nothing You Could Do"; 
+								font-size: 14px; 
+								font-style: normal; 
+								font-variant: normal; 
+								font-weight: 700; 
+								line-height: 15.4px; } 
+								p { font-family: "Nothing You Could Do"; 
+								font-size: 14px; 
+								font-style: normal; 
+								font-variant: normal; 
+								font-weight: 400; 
+								line-height: 20px; } 
+								blockquote { font-family: "Nothing You Could Do"; 
+								font-size: 21px; 
+								font-style: normal; 
+								font-variant: normal; 
+								font-weight: 400; 
+								line-height: 30px; } 
+								pre { font-family: "Nothing You Could Do"; 
+								font-size: 13px; 
+								font-style: normal; 
+								font-variant: normal; 
+								font-weight: 400; 
+								line-height: 18.5714px; }
+		*/
+		
